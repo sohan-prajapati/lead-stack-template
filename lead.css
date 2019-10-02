@@ -1,0 +1,156 @@
+
+	<style>
+
+
+		
+		.polu
+		{
+			
+			position: absolute;
+			top: 0px;
+			margin: 25px;
+			font-size: 24px;
+			font-style:normal;
+			font-family:Poppins;
+			color: #FFFFFF;
+		}
+		.container
+		{
+
+			background-color: white;
+			box-shadow: 0px 2px 2px;
+			width: 635px;
+		}
+		span
+		{
+			color: black;
+		}
+		.image
+		{
+			position: relative;
+			left: 55px;
+			bottom:230px;
+			height: 340px;
+		}
+		.submit
+		{
+			font-family: Poppins;
+			font-weight: 300;
+			font-size: 16px;
+			line-height: 18px;
+			text-align: center;
+			position: relative;
+			left: 87%;
+			bottom:420px;
+			border-radius: 30px;
+			width: 60px;
+			background-color: white;
+			border: 1px solid white;
+		}
+		.roal
+		{
+			
+			border-radius: 50%;
+			width: 190px;
+			height: 190px;
+			text-align: center;
+			position: relative;
+			right: 10px;
+			top: 30px;
+		
+		}
+		.bull
+		{
+
+				background-image: url(roal.png);
+				background-repeat: no-repeat;
+				position: relative;
+				bottom: 360px;
+				left: 30px;
+				color: white;
+				font-size: 22px;
+		}
+		.beat
+		{
+			margin: -15px;
+			height: 280px;
+
+		}
+		#jas
+		{
+
+			background-color:  #2CB3FE;
+			position: relative;
+			bottom: 380px;
+			height: 450px;
+
+
+		}
+		.mind
+		{
+			text-align: center;
+			font-size: 27px;
+			font-family:  Poppins;
+			color: white;
+			
+		}
+		.same
+		{
+			padding: 5px;
+			background-color: white;
+			height: 50px;
+			border-radius: 0px 25px 25px 0px;
+			width: 420px; 
+			text-align: center;
+			position: relative;
+			right: 18px;
+			font-size: 20px;
+			color: #000000;
+			font-family: Poppins;
+		}
+		.same1
+		{
+			padding: 5px;
+			background-color: white;
+			height: 50px;
+			border-radius: 25px 0px 0px 25px;
+			width: 420px; 
+			text-align: center;
+			position: relative;
+			left: 240px;
+			font-size: 20px;
+			color: #000000;
+			font-family:  Poppins;
+		}
+		body
+		{
+			color:  #E5E5E5;
+		}
+		.bt 
+		{
+			font-size: 14px;
+			color: white;
+			border: 2px solid white;
+			border-radius: 20px;
+			position: relative;
+			left: 200px;
+			padding: 10px;
+
+		}
+		.www,a
+		{
+			font-size: 20px;
+			font-height:24px;
+			color:  #444444;
+			position: relative;
+			top: 30px;
+			text-align: center;
+		}
+		.feat
+		{
+			color: white;
+			margin: 20px;
+			font-size: 16px;
+		}
+
+	</style>
